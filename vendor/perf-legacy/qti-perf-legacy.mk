@@ -12,6 +12,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+QCOM_COMMON_PATH := device/qcom/common
+
 TARGET_PERF_COMPONENT_VARIANT := perf-legacy
 
 PRODUCT_SOONG_NAMESPACES += \
